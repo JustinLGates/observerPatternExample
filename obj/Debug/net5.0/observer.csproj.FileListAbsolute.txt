@@ -1,0 +1,16 @@
+C:\codeworkssource\codeworks\personal\observer\bin\Debug\net5.0\observer.exe
+C:\codeworkssource\codeworks\personal\observer\bin\Debug\net5.0\observer.deps.json
+C:\codeworkssource\codeworks\personal\observer\bin\Debug\net5.0\observer.runtimeconfig.json
+C:\codeworkssource\codeworks\personal\observer\bin\Debug\net5.0\observer.runtimeconfig.dev.json
+C:\codeworkssource\codeworks\personal\observer\bin\Debug\net5.0\observer.dll
+C:\codeworkssource\codeworks\personal\observer\bin\Debug\net5.0\ref\observer.dll
+C:\codeworkssource\codeworks\personal\observer\bin\Debug\net5.0\observer.pdb
+C:\codeworkssource\codeworks\personal\observer\obj\Debug\net5.0\observer.csprojAssemblyReference.cache
+C:\codeworkssource\codeworks\personal\observer\obj\Debug\net5.0\observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\codeworkssource\codeworks\personal\observer\obj\Debug\net5.0\observer.AssemblyInfoInputs.cache
+C:\codeworkssource\codeworks\personal\observer\obj\Debug\net5.0\observer.AssemblyInfo.cs
+C:\codeworkssource\codeworks\personal\observer\obj\Debug\net5.0\observer.csproj.CoreCompileInputs.cache
+C:\codeworkssource\codeworks\personal\observer\obj\Debug\net5.0\observer.dll
+C:\codeworkssource\codeworks\personal\observer\obj\Debug\net5.0\ref\observer.dll
+C:\codeworkssource\codeworks\personal\observer\obj\Debug\net5.0\observer.pdb
+C:\codeworkssource\codeworks\personal\observer\obj\Debug\net5.0\observer.genruntimeconfig.cache
